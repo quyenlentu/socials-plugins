@@ -1,0 +1,58 @@
+#wrap h2{
+    font-size: 23px;
+    font-weight: 400;
+    margin: 0;
+    padding: 9px 0 4px;
+    line-height: 29px;
+    margin-bottom: 20px;
+}
+#wpbody .nav-tab-wrapper{
+    font-weight: bold;
+    overflow: hidden;
+    background: #b4b4b4 !important;
+    border-radius: 2px;
+    margin: 0 0 20px 0;
+    padding: 0px;
+}
+.nav-tab-wrapper .nav-tab{
+    text-decoration: none;
+    color: #fff !important;
+    padding: 5px 15px;
+    border-radius: 28px !important;
+    float: left;
+    display: block;
+    margin: 10px 15px;
+    background: none;
+    border: none;
+    font-size: 13px;
+}
+.nav-tab-wrapper .nav-tab-active{
+    background: rgba(0,0,0,.5) !important;
+}
+.nav-tab-wrapper .nav-tab:hover, .nav-tab-wrapper li.ui-tabs-selected a{
+    background: #999;
+}
+.asocial_wrapper .input{
+    margin-bottom: 10px;
+}
+.asocial_wrapper .input label{
+    width: 170px;
+    display: inline-block;
+    font-weight: 600;
+    line-height: 25px;
+    margin-bottom: 10px;
+}
+.asocial_wrapper .input .asocial_input{
+    width: 400px;
+}
+.wp-core-ui .button-primary {
+    background: #f5a623;
+    border: none;
+    border-radius: 2px;
+    padding: 10px 20px;
+    height: auto;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    font-size: 14px;
+    text-shadow: 0 0 4px #CD8A1D;
+}
